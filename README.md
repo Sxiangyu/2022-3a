@@ -16,4 +16,8 @@ s = "Python Syntax Highlighying"
 print(s)
 ```
 
+```java
+s = "Python Syntax Highlighying"
+print(s)
+```
 

@@ -7,3 +7,13 @@
 
 :smile:
 ![nkust](nkust.png "nkust")
+
+- [ ] todo list
+- [x] done
+
+```python
+s = "Python Syntax Highlighying"
+print(s)
+```
+
+

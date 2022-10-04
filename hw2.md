@@ -1,4 +1,8 @@
-### 甘特圖
+
+### (1) PERT圖
+![pert](pert.PNG "nkust")
+
+### (2) 甘特圖
 
 ```mermaid
 gantt
@@ -18,7 +22,7 @@ gantt
     使用者測試:a11, after a9 a10,25d
 ```
 ---
-### PERT圖
-![nkust](pert.png "nkust")
+### (3) 關鍵路徑
+
 
 

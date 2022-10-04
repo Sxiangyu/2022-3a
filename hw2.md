@@ -1,6 +1,6 @@
 
 ### (1) PERT圖
-![pert](pert.PNG "nkust")
+
 
 ### (2) 甘特圖
 

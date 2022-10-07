@@ -1,5 +1,5 @@
 
-### (1) PERT/CRM圖
+### (1) PERT/CPM圖
 ![pert](hw2_pert.PNG "pert")
 
 ---

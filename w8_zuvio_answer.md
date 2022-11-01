@@ -1,10 +1,17 @@
 ```java
-abstract class CShape{
-    protected String color;
-    public void setColor(String str){
-        color = str;
+class CTriangle extends CShape{
+    double ca, cb, cc;
+    public CTriangle(double a, double b, double c){
+        ca=a;
+        cb=b;
+        cc=c;
     }
- 
-    public abstract void show();
+   
+    public void show() {
+       
+        System.out.print("color="+color+"  ");
+        System.out.print("area="+0.5*ca*cb);
+    }
+   
 }
 ```
